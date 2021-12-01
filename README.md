@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/tejas-warake-3b72a11a7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://twitter.com/waraketejas/">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+<a href="https://www.instagram.com/__demo.gorgon___/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--
 **tejas-warake/tejas-warake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
