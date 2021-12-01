@@ -1,11 +1,11 @@
-### Hi there 👋
+### About 👨‍💻
+<p>I am a B.Tech(IT) student, having a great interest in programming and development field. I like to code in different languages like Python, JS, C++, etc.</p>
+
+### Reach Me 😄
 
 <a href="https://www.linkedin.com/in/tejas-warake-3b72a11a7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/waraketejas/">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 <a href="https://www.instagram.com/__demo.gorgon___/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-
-### About Me 👨‍💻
-<p>I am a B.Tech(IT) student, having a great interest in programming and development field. I like to code in different languages like Python, JS, C++, etc.</p>
 
 ### Tools and Technologies
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
