@@ -6,6 +6,8 @@
 <a href="https://www.linkedin.com/in/tejas-warake-3b72a11a7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/waraketejas/">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 <a href="https://www.instagram.com/__demo.gorgon___/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<a href="https://www.reddit.com/user/tejuwarake">![alt text](https://img.shields.io/badge/-Reddit-ff66b3?style=plastic&logo=Reddit)</a>
+
 
 ### Tools and Technologies
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
