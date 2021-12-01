@@ -7,6 +7,8 @@
 <a href="https://twitter.com/waraketejas/">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 <a href="https://www.instagram.com/__demo.gorgon___/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 <a href="https://www.reddit.com/user/tejuwarake">![alt text](https://img.shields.io/badge/-Reddit-ff66b3?style=plastic&logo=Reddit)</a>
+<a href="https://www.codechef.com/users/tejas_321">![alt text](https://img.shields.io/badge/-CodeChef-ccffff?style=plastic&logo=CodeChef)</a>
+<a href="https://www.hackerrank.com/_codecrusher">![alt text](https://img.shields.io/badge/-Hackerrank-ccffcc?style=plastic&logo=Hackerrank)</a>
 
 
 ### Tools and Technologies 🛠️
