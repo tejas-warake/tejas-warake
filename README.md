@@ -8,7 +8,9 @@
 <a href="https://www.instagram.com/__demo.gorgon___/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 <a href="https://www.reddit.com/user/tejuwarake">![alt text](https://img.shields.io/badge/-Reddit-ff66b3?style=plastic&logo=Reddit)</a>
 <a href="https://www.codechef.com/users/tejas_321">![alt text](https://img.shields.io/badge/-CodeChef-ccffff?style=plastic&logo=CodeChef)</a>
+<a href="https://codeforces.com/profile/tejas1502">![alt text](https://img.shields.io/badge/-CodeForces-d6d6c2?style=plastic&logo=CodeForces)</a>
 <a href="https://www.hackerrank.com/_codecrusher">![alt text](https://img.shields.io/badge/-Hackerrank-ccffcc?style=plastic&logo=Hackerrank)</a>
+
 
 
 ### Tools and Technologies 🛠️
