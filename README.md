@@ -1,7 +1,9 @@
 ### About 👨‍💻
 <p>I am a B.Tech(IT) student, having a great interest in programming and development field. I like to code in different languages like Python, JS, C++, etc.</p>
 
-### Reach Me 😄
+---
+
+### Social 😄
 
 <a href="https://www.linkedin.com/in/tejas-warake-3b72a11a7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/waraketejas/">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
@@ -11,7 +13,7 @@
 <a href="https://codeforces.com/profile/tejas1502">![alt text](https://img.shields.io/badge/-CodeForces-d6d6c2?style=plastic&logo=CodeForces)</a>
 <a href="https://www.hackerrank.com/_codecrusher">![alt text](https://img.shields.io/badge/-Hackerrank-ccffcc?style=plastic&logo=Hackerrank)</a>
 
-
+---
 
 ### Tools and Technologies 🛠️
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -26,6 +28,7 @@
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
+---
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
