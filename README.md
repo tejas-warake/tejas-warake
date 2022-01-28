@@ -1,5 +1,5 @@
 ### About 👨‍💻
-<p>I am a B.Tech(IT) student, having a great interest in programming and development field. I like to code in different languages like Python, JS, C++, etc.</p>
+<p>I am a B.Tech(IT) student, having a keen interest in programming and mathematics. I love to code in languages like C++, Python and JavaScript.</p>
 
 ---
 
