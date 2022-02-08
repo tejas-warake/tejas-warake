@@ -5,7 +5,7 @@
 
 - Learning Data Structures and Algorithms.
 - Learning web development(MERN Stack).
-- Finding open source projects for contributions.
+- Exploring Open Source.
 
 ## Connect with Me 
 <p align="center">
