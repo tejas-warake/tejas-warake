@@ -23,8 +23,9 @@
 </p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-warake&theme=tokyonight" alt="tejas-warake" /></p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-warake&theme=tokyonight" alt="tejas-warake" />
+
 
 ## Tools and Technologies 🛠️
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-warake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tejas-warake" /></p>
