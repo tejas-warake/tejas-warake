@@ -23,12 +23,13 @@
 </p>
 <br>
 
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-warake&theme=tokyonight" alt="tejas-warake" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-warake&theme=tokyonight" alt="tejas-warake" />
 
+<hr>
 
 ## Tools and Technologies 🛠️
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-warake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tejas-warake" /></p>
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-warake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tejas-warake" />
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
