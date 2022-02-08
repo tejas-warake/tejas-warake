@@ -23,11 +23,6 @@
 </p>
 <br>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-warake&theme=tokyonight" alt="tejas-warake" />
-
-<hr>
-
 ## Tools and Technologies 🛠️
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-warake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tejas-warake" />
 
@@ -40,5 +35,9 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+
+<hr>
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
 
 
