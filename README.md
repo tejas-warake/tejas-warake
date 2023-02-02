@@ -18,10 +18,9 @@
 <a href="https://www.leetcode.com/incognito15" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="tejas-warake" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tejaswarake15802" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="tejas-warake" height="40" width="40" /></a>
 </p>
-<br>
+
 
 ## Tools and Technologies 🛠️
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-warake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tejas-warake" />
 
 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -35,7 +34,4 @@
 
 
 <hr>
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&show_icons=true&locale=en&theme=tokyonight" alt="tejas-warake" />
-
 
