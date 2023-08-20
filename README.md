@@ -1,11 +1,9 @@
 ## About 👨‍💻
-<p>I am a B.Tech(IT) student, having a keen interest in programming and mathematics. I love to solve problems in C++ and Javascript</p>
+👨‍💻 Final year B.Tech student in Information Technology 🎓 | Software Engineer Intern @ Infineon Technologies 💼 | Passionate about problem-solving 🧠 | Fluent in C, C++, Java, and Typescript 💬 | Exploring the world of Rust 🦀 | Embracing the worlds of cloud and DevOps ☁️🔧
 
-### I am Currently...<br>
-
-- Practicing Data Structures and Algorithms.
-- Learning Full Stack Development.
-- Open for internships and contributions.
+## I am currently
+- Working on Debugging of Javacard Applets using VS Code.
+- Working on enabling Mixed Mode Debugging in VS Code.
 
 ## This is ME 
 <p align="center">
@@ -18,19 +16,10 @@
 <a href="https://auth.geeksforgeeks.org/user/incognito01" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="tejas-warake" height="40" width="40" /></a>
 </p>
 
+---
 
-## Tools and Technologies 🛠️
+<a href="https://github.com/tejas-warake">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas-warake&theme=radical&show_icons=true" />
+</a>
 
-
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-
-<hr>
 
