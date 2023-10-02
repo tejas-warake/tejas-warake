@@ -1,5 +1,5 @@
 ## About 👨‍💻
-👨‍💻 Final year B.Tech student in Information Technology 🎓 | Software Engineer Intern @ Infineon Technologies 💼 | Passionate about problem-solving 🧠 | Fluent in C, C++, Java, and Typescript 💬 | Exploring the world of Rust 🦀 | Embracing the worlds of cloud and DevOps ☁️🔧
+👨‍💻 Final year B.Tech student in Information Technology 🎓 | Software Engineer Intern @ Infineon Technologies 💼 | Passionate about problem-solving 🧠 | Fluent in C++ and Typescript 💬 | Exploring the world of Rust 🦀 | Aspiring Full Stack Developer with a keen interest in Cloud and DevOps. ☁️🔧
 
 ## I am currently
 - Working on Debugging of Javacard Applets using VS Code.
