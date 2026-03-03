@@ -3,7 +3,7 @@
 I'm a Senior Engineer at Infineon Technologies based in Bengaluru. I focus on backend development and enjoy tackling algorithmic challenges.
 
 ### 💻 Coding Profiles
-* [LeetCode](https://leetcode.com/your-profile) 
+* [LeetCode](https://leetcode.com/incognito15) 
 * [Codeforces](https://codeforces.com/profile/incognito15) 
 
 ### 📄 Resume
