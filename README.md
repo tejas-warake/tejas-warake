@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tejas Warake</h1>
-<h3 align="center">Senior Backend Engineer | Distributed Systems & Event-Driven Architecture | Agentic AI | LeetCode Knight</h3>
 
 ---
 
