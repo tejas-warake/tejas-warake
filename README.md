@@ -60,14 +60,6 @@ Persistent knowledge retention system capturing engineering insights, debugging 
 
 ---
 
-### Accomplishments
-- **LeetCode Knight** | **1000+ Problems Solved** | Global Contest Rating Top 2%  
-- **Winner – Infineon Innofest '24** | European Digital Identity Wallet Functional Prototype  
-- **1st Place – National IoT Hackathon** | IoT-based Flood Detection & Disaster Prevention System  
-- **Academic Distinction** | B.Tech in IT from VIIT Pune with **9.39 / 10 CGPA**  
-
----
-
 ### GitHub & LeetCode Stats
 
 <div align="center">
