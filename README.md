@@ -7,11 +7,10 @@
 - 🎓 **B.Tech in Information Technology** @ Vishwakarma Institute of Information Technology (VIIT Pune) | **CGPA: 9.39 / 10**
 - ⚔️ **Knight @LeetCode** | **1000+ Problems Solved** | Global Contest Rank: **Top 2%**
 - 🧩 Competitive Programmer @ **Codeforces** (`incognito15`)
-- 🏆 **Winner – Infineon Innofest '24** (European Digital Identity Wallet Prototype)
 - 🥇 **1st Place – IoT Hackathon** (IoT-Based Flood Detection & Prevention System)
 - ⚙️ Architecting scalable microservices, high-throughput Kafka event pipelines, and distributed caching systems
 - 🤖 Building Agentic AI ecosystems, Model Context Protocol (MCP) servers, and RAG pipelines
-- 🔒 Experienced in Applied Cryptography, Hardware Security Modules (HSM), and Smart Card Personalization (RSA/ECC)
+- 🔒 Experienced in Cryptography, and Smart Card Systems
 
 ---
 
@@ -58,15 +57,6 @@ Visual editor and workflow manager replacing manual JSON editing of `launch.json
 Persistent knowledge retention system capturing engineering insights, debugging discoveries, and architectural decisions directly from developer workflows.  
 → Uses GitHub Copilot reasoning via the VS Code Language Model API with hybrid semantic vector embeddings to explain legacy context and instantly recall previously solved challenges.  
 [GitHub ↗](https://github.com/tejas-warake/engineering-memory)
-
-#### Secure Tokenization & Automated APDU Generation Suite (Infineon Technologies)
-Enterprise backend services designed for high-security smart card and digital wallet personalization.  
-→ Automated cryptographic key processing (RSA/ECC) to build Mastercard personalization scripts in **under 1 second**, replacing a **10-minute manual HSM process**. Cut API authentication p99 latency by **35%** using Redis distributed caching.
-
-#### Multi-Agent AI Workflow Orchestrator (Infineon Technologies)
-Autonomous multi-agent system where a central orchestrator delegates complex workflows to specialized agents (Research, Specification, Implementation, and Review).  
-→ Developed custom **Model Context Protocol (MCP)** tools and enterprise RAG pipelines, cutting manual engineering effort by **50%** and retrieval times by **60%**.
-
 ---
 
 ### Accomplishments
