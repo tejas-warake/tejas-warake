@@ -57,6 +57,7 @@ Visual editor and workflow manager replacing manual JSON editing of `launch.json
 Persistent knowledge retention system capturing engineering insights, debugging discoveries, and architectural decisions directly from developer workflows.  
 → Uses GitHub Copilot reasoning via the VS Code Language Model API with hybrid semantic vector embeddings to explain legacy context and instantly recall previously solved challenges.  
 [GitHub ↗](https://github.com/tejas-warake/engineering-memory)
+
 ---
 
 ### Accomplishments
